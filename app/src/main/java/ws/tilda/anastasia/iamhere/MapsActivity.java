@@ -115,7 +115,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         }
         else {
             handleNewLocation(location);
-        };
+        }
 
     }
 
